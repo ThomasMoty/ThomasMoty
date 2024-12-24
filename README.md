@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ThomasMoty
-- 👀 I’m interested in Supply Chain Complexity, Solving, Pro-actively setting solutions
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @Thomas Motyczynski
+- 👀 I’m interested in Supply Chain Complexity, Solving pro actively ;the questions and aiming to use databased solutions
+- 🌱 I’m currently learning, I'm always trying to learn
+- 💞️ I’m looking to collaborate on all topics, I'm sure that doing things right and with good quality allows to make a difference i  our actual world
+- 📫 How to reach me : LinkedIn @ www.linkedin.com/in/thomas-motyczynski
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
 <!---
 ThomasMoty/ThomasMoty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
